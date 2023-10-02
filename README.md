@@ -6,6 +6,7 @@ This website is designed by Tejas.v.Kangod and Sudhanva Bhatt. This website enab
 ![image](https://github.com/jassu75/online-diagnostic-laboratory-website/assets/122803006/e0f5d1c0-4a2b-4f7c-aeb5-fdff4381d810)
 ![Screenshot 2023-09-30 121454](https://github.com/jassu75/online-diagnostic-laboratory-website/assets/122803006/a407e87d-8e0a-4b2d-af62-019b59771a64)
 ![five](https://github.com/jassu75/online-diagnostic-laboratory-website/assets/122803006/8c67e662-c6ce-43b9-a1b9-277d124d6c44)
+![er diag](https://github.com/jassu75/online-diagnostic-laboratory-website/assets/122803006/c196bc4b-860b-4895-bdce-290bd8902e03)
 
 
 
